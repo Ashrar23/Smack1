@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMACK</string>
+    <string name="nav_open">open navigation drawer</string>
+    <string name="nav_close">close navigation drawer</string>
+</resources>
